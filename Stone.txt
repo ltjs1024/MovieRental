@@ -1,0 +1,8 @@
+Rental Record for Stone
+   黑客帝国   9.5
+   战狼II   15.0
+   功夫熊猫   4.5
+   冰雪奇缘   1.5
+   三生三世   3.0
+Amount owed is 33.5
+You earned 6 frequent renter points

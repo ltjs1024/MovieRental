@@ -1,0 +1,6 @@
+Rental Record for Peter
+   战狼   3.5
+   战狼II   6.0
+   功夫熊猫   4.5
+Amount owed is 14.0
+You earned 4 frequent renter points
